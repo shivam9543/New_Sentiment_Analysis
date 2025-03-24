@@ -16,7 +16,6 @@ This is a Streamlit web app that:
 
 
 How It Works?
-
 Enter a company name (like "Tesla" or "Google").
 
 The app fetches the latest news from Yahoo.
