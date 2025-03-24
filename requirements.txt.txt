@@ -1,6 +1,0 @@
-streamlit==1.27.2
-requests==2.31.0
-beautifulsoup4==4.12.2
-textblob==0.17.1
-deep-translator==1.11.4
-gtts==2.4.0
