@@ -9,11 +9,11 @@ This is a Streamlit web app that:
 
 2) Analyzes sentiment (Positive, Negative, Neutral)
 
-3)Translates news to Hindi
+3) Translates news to Hindi
 
-4)Converts Hindi text to speech
+4) Converts Hindi text to speech
 
-5)Lets you play and download the Hindi audio
+5) Lets you play and download the Hindi audio
 
 
 
@@ -32,6 +32,8 @@ The news summaries are translated into Hindi.
 The translated text is converted into speech (MP3 audio).
 
 You can listen to the Hindi audio and download it.
+
+
 
 
 
@@ -60,6 +62,9 @@ How the Code Works?
 4️⃣ text_to_speech_hindi(text)
 
 🔹 Converts the translated Hindi text into speech (MP3 file).
+
+
+
 
 
 Deployment Link: https://huggingface.co/spaces/shiningcreature/New_sentiment_Company
