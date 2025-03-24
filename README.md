@@ -1,5 +1,8 @@
 Steps:
 📢 News Sentiment & Hindi Speech Generator
+
+
+
 This is a Streamlit web app that:
 1) Fetches news from Yahoo
 2) Analyzes sentiment (Positive, Negative, Neutral)
@@ -9,17 +12,15 @@ This is a Streamlit web app that:
 
 
 
+
+
+
 How It Works?
 Enter a company name (like "Tesla" or "Google").
-
 The app fetches the latest news from Yahoo.
-
 It analyzes the sentiment of the news (Positive, Neutral, or Negative).
-
 The news summaries are translated into Hindi.
-
 The translated text is converted into speech (MP3 audio).
-
 You can listen to the Hindi audio and download it.
 
 
