@@ -4,10 +4,15 @@ Steps:
 
 
 This is a Streamlit web app that:
+
 1) Fetches news from Yahoo
+
 2) Analyzes sentiment (Positive, Negative, Neutral)
+
 3)Translates news to Hindi
+
 4)Converts Hindi text to speech
+
 5)Lets you play and download the Hindi audio
 
 
@@ -27,6 +32,11 @@ The news summaries are translated into Hindi.
 The translated text is converted into speech (MP3 audio).
 
 You can listen to the Hindi audio and download it.
+
+
+
+
+
 
 
 
